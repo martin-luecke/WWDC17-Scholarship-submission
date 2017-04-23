@@ -10,3 +10,5 @@ Every single choreographic element can be equipped with different options: e.g. 
 By default the characters use the same colors like the ones in the WWDC wallpapers. To make the trailer as customizable as possible these can be changed to every possible color. To achieve that I wrote an extension for CGImage, which returns a new image with replaced colors. This way every character gets one of the entered color combinations at random.
 
 In my Playground you will find examples for the customizations described above. Have fun playing around in my Playground!
+
+![alt tag](Screenshot.PNG)
